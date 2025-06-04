@@ -1,6 +1,6 @@
 # Grafana Setup (For Study Purposes)
 
-Make sure you have the following tools installed:
+Make sure you have the following tools installed and also your prometheus is up and running:
 
 - [Docker](https://docs.docker.com/engine/install/): Container runtime required by K3d
 - [k3d](https://k3d.io/stable/): Runs a lightweight Kubernetes cluster inside Docker
