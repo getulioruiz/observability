@@ -1,4 +1,4 @@
-# Prometheus Stack Setup (For Study Purposes)
+# Prometheus Setup (For Study Purposes)
 
 Make sure you have the following tools installed:
 
