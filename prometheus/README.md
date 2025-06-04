@@ -60,9 +60,7 @@ Open [http://localhost:9093](http://localhost:9093) in your browser.
 
 ---
 
-## 🧹 To Uninstall Everything
-
-If you want to clean up the Prometheus stack and the cluster:
+## To Uninstall Everything
 
 ```bash
 helm uninstall prometheus -n monitoring
