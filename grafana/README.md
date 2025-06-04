@@ -1,4 +1,4 @@
-# Prometheus Stack Setup (For Study Purposes)
+# Grafana Setup (For Study Purposes)
 
 Make sure you have the following tools installed:
 
@@ -61,7 +61,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 ## To Uninstall Everything
 
 ```bash
-helm uninstall prometheus -n monitoring
+helm uninstall grafana -n monitoring
 k3d cluster delete
 ```
 
