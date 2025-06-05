@@ -48,6 +48,20 @@ Open [http://localhost:9090](http://localhost:9090) in your browser.
 
 ---
 
+---
+
+### Node Exporter
+
+Port-forward the Node Exporter service:
+
+```bash
+kubectl port-forward -n monitoring service/prometheus-prometheus-node-exporter 9091:9100
+```
+
+Open [http://localhost:9091](http://localhost:9091) in your browser.
+
+---
+
 ### Alertmanager
 
 Port-forward the Alertmanager service:
